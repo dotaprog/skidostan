@@ -118,7 +118,7 @@ export default function App() {
           </span>
         </h2>
         <p className="text-gray-500 text-base sm:text-lg max-w-xl mx-auto">
-          Нажмите на промокод, чтобы скопировать его. Используйте при оформлении заказа! fb4wjc0k71c1g9m7
+          Нажмите на промокод, чтобы скопировать его. Используйте при оформлении заказа!
         </p>
 
         {/* Stats */}
