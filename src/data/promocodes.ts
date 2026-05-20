@@ -36,7 +36,7 @@ export const promoCodes: PromoCode[] = [
     company: "Самокат",
     logo: "/logos/samokat.png",
     description: "На первый заказ от 700₽. Не суммируется с другими скидками на товары.",
-    code: "SMLXUSL",
+    code: "TEST",
     category: "hype",
   },
   {
@@ -45,7 +45,7 @@ export const promoCodes: PromoCode[] = [
     company: "Самокат",
     logo: "/logos/samokat.png",
     description: "На первый заказ от 900₽. СУММИРУЕТСЯ с другими скидками на товары.",
-    code: "PFF79ES",
+    code: "TEST",
     category: "hype",
   },
   {
@@ -54,7 +54,7 @@ export const promoCodes: PromoCode[] = [
     company: "Яндекс Лавка",
     logo: "/logos/yandex-lavka.svg",
     description: "На первый заказ от 800₽.",
-    code: "50PFB5",
+    code: "TEST",
     category: "hype",
   },
   {
@@ -63,7 +63,7 @@ export const promoCodes: PromoCode[] = [
     company: "Яндекс Лавка",
     logo: "/logos/yandex-lavka.svg",
     description: "На заказ от 800₽, если заказов не было более года.",
-    code: "40APF2497",
+    code: "TEST",
     category: "hype",
   },
   {
@@ -73,7 +73,7 @@ export const promoCodes: PromoCode[] = [
     logo: "/logos/magnit.svg",
     description:
       "На первый заказ от 1.200₽ в разделе «Экспресс». Не распространяются на товары из разделов: «М.Косметик», «Магнит Гипермаркет», «Аптека» и «Финальная цена».",
-    code: "PE3QTBEA",
+    code: "TEST",
     category: "hype",
   },
   {
@@ -83,7 +83,7 @@ export const promoCodes: PromoCode[] = [
     logo: "/logos/magnit.svg",
     description:
       "На первый заказ от 1.000₽ в разделе Мигом. Не распространяется на товары с пометкой «финальная цена».",
-    code: "FM51NTQTX",
+    code: "TEST",
     category: "hype",
   },
   {
@@ -92,7 +92,7 @@ export const promoCodes: PromoCode[] = [
     company: "Перекрёсток Доставка",
     logo: "/logos/perekrestok.svg",
     description: "На первый заказ от 3.000₽.",
-    code: "41LQLTD2",
+    code: "TEST",
     category: "hype",
   },
   {
@@ -101,7 +101,7 @@ export const promoCodes: PromoCode[] = [
     company: "Перекрёсток Доставка",
     logo: "/logos/perekrestok.svg",
     description: "На первые ДВА заказа от 1.800₽.",
-    code: "16WZRKN8",
+    code: "TEST",
     category: "hype",
   },
   {
@@ -111,7 +111,7 @@ export const promoCodes: PromoCode[] = [
     logo: "/logos/magnit.svg",
     description:
       "На повторный заказ от 1.700₽ в разделе «Мигом». Бонусы суммируются со скидками.",
-    code: "21DSFIRGDD",
+    code: "TEST",
     category: "hype",
   },
 
@@ -122,7 +122,7 @@ export const promoCodes: PromoCode[] = [
     company: "Самокат",
     logo: "/logos/samokat.svg",
     description: "На первый заказ от 700₽. Не суммируется с другими скидками на товары.",
-    code: "SMLXUSL",
+    code: "TEST",
     category: "food",
   },
   {
@@ -131,7 +131,7 @@ export const promoCodes: PromoCode[] = [
     company: "Самокат",
     logo: "/logos/samokat.svg",
     description: "На первый заказ от 900₽. СУММИРУЕТСЯ с другими скидками на товары.",
-    code: "KUSHI400",
+    code: "TEST",
     category: "food",
   },
   {
@@ -140,7 +140,7 @@ export const promoCodes: PromoCode[] = [
     company: "Яндекс Лавка",
     logo: "/logos/yandex-lavka.svg",
     description: "На первый заказ от 800₽.",
-    code: "50PFB5",
+    code: "TEST",
     category: "food",
   },
   {
@@ -149,7 +149,7 @@ export const promoCodes: PromoCode[] = [
     company: "Яндекс Лавка",
     logo: "/logos/yandex-lavka.svg",
     description: "На заказ от 800₽, если заказов не было более года.",
-    code: "40APF2497",
+    code: "TEST",
     category: "food",
   },
   {
@@ -159,7 +159,7 @@ export const promoCodes: PromoCode[] = [
     logo: "/logos/magnit.svg",
     description:
       "На первый заказ от 1.200₽ в разделе «Экспресс». Не распространяются на товары из разделов: «М.Косметик», «Магнит Гипермаркет», «Аптека» и «Финальная цена».",
-    code: "PE3QTBEA",
+    code: "TEST",
     category: "food",
   },
   {
@@ -168,7 +168,7 @@ export const promoCodes: PromoCode[] = [
     company: "Перекрёсток Доставка",
     logo: "/logos/perekrestok.svg",
     description: "На первый заказ от 3.000₽",
-    code: "41LQLTD2",
+    code: "TEST",
     category: "food",
   },
   {
@@ -177,7 +177,7 @@ export const promoCodes: PromoCode[] = [
     company: "Перекрёсток Доставка",
     logo: "/logos/perekrestok.svg",
     description: "На первые ДВА заказа от 1.800₽.",
-    code: "16WZRKN8",
+    code: "TEST",
     category: "food",
   },
   {
@@ -186,7 +186,7 @@ export const promoCodes: PromoCode[] = [
     company: "Важная рыба",
     logo: "/logos/vazhnaya-ryba.svg",
     description: "📍Санкт-Петербург, Пушкин. При каждом заказе от 3.999 ₽.",
-    code: "SPTB170",
+    code: "TEST",
     category: "food",
   },
   {
@@ -195,7 +195,7 @@ export const promoCodes: PromoCode[] = [
     company: "Важная рыба",
     logo: "/logos/vazhnaya-ryba.svg",
     description: "📍Санкт-Петербург. Ролл Филадельфия 8 шт. в подарок на первый заказ от 2.999 ₽.",
-    code: "MYFILA170",
+    code: "TEST",
     category: "food",
   },
   {
@@ -204,7 +204,7 @@ export const promoCodes: PromoCode[] = [
     company: "ВкусВилл",
     logo: "/logos/vkusvill.svg",
     description: "На первый заказ от 1.000 ₽.",
-    code: "VS3YM49",
+    code: "TEST",
     category: "food",
   },
   {
@@ -213,7 +213,7 @@ export const promoCodes: PromoCode[] = [
     company: "ВкусВилл",
     logo: "/logos/vkusvill.svg",
     description: "На первый заказ от 1.250 ₽.",
-    code: "VS8K2GY",
+    code: "TEST",
     category: "food",
   },
   {
@@ -222,7 +222,7 @@ export const promoCodes: PromoCode[] = [
     company: "ВкусВилл",
     logo: "/logos/vkusvill.svg",
     description: "На первый заказ от 1.500 ₽.",
-    code: "30V86SR1",
+    code: "TEST",
     category: "food",
   },
   {
@@ -231,7 +231,7 @@ export const promoCodes: PromoCode[] = [
     company: "ВкусВилл",
     logo: "/logos/vkusvill.svg",
     description: "На первый заказ от 2.500 ₽.",
-    code: "35VY14RN",
+    code: "TEST",
     category: "food",
   },
   {
@@ -240,7 +240,7 @@ export const promoCodes: PromoCode[] = [
     company: "Elementaree",
     logo: "/logos/elementaree.svg",
     description: "На первый заказ от 3.000 ₽ или 12% на все повторные заказы от 3.000 ₽.",
-    code: "limb3",
+    code: "TEST",
     category: "food",
   },
   {
@@ -249,7 +249,7 @@ export const promoCodes: PromoCode[] = [
     company: "Додо Пицца",
     logo: "/logos/dodo.svg",
     description: "На первый заказ.",
-    code: "5V88E",
+    code: "TEST",
     category: "food",
   },
   {
@@ -258,7 +258,7 @@ export const promoCodes: PromoCode[] = [
     company: "Додо Пицца",
     logo: "/logos/dodo.svg",
     description: "При каждом заказе от 1.599 ₽.",
-    code: "9LGP7",
+    code: "TEST",
     category: "food",
   },
   {
@@ -268,7 +268,7 @@ export const promoCodes: PromoCode[] = [
     logo: "/logos/dodo.svg",
     description:
       '📍Воронеж, Ростов-на-Дону, Таганрог, Сочи, Лазаревское, Адлер, Эсто-Садок, Красная Поляна. Пицца "Ветчина и сыр" 25 см за 1 ₽ при каждом заказе от 1.399 ₽ на доставку, самовывоз и в ресторане.',
-    code: "ZPT1N4",
+    code: "TEST",
     category: "food",
   },
   {
@@ -277,7 +277,7 @@ export const promoCodes: PromoCode[] = [
     company: "FoodBand",
     logo: "/logos/foodband.svg",
     description: "На всё меню. Заказ от 745 ₽.",
-    code: "DJC159",
+    code: "TEST",
     category: "food",
   },
   {
@@ -286,7 +286,7 @@ export const promoCodes: PromoCode[] = [
     company: "FoodBand",
     logo: "/logos/foodband.svg",
     description: "Сет Горячие роллы 24шт.",
-    code: "DJL76",
+    code: "TEST",
     category: "food",
   },
   {
@@ -295,7 +295,7 @@ export const promoCodes: PromoCode[] = [
     company: "FoodBand",
     logo: "/logos/foodband.svg",
     description: "Пицца BBQ в подарок при заказе от 1.290 ₽.",
-    code: "DJT76",
+    code: "TEST",
     category: "food",
   },
   {
@@ -305,7 +305,7 @@ export const promoCodes: PromoCode[] = [
     logo: "/logos/magnit.svg",
     description:
       "На первый заказ от 1.000 ₽ в разделе Мигом. Скидка по промокоду распространяется только на товары из раздела «Мигом», не распространяется на товары с пометкой «финальная цена».",
-    code: "FM51NTQTX",
+    code: "TEST",
     category: "food",
   },
   {
@@ -314,7 +314,7 @@ export const promoCodes: PromoCode[] = [
     company: "Магнит Доставка",
     logo: "/logos/magnit.svg",
     description: "На повторный заказ от 1.700 ₽ в разделе «Мигом» Бонусы суммируются со скидками.",
-    code: "21DSFIRGDD",
+    code: "TEST",
     category: "food",
   },
   {
@@ -323,7 +323,7 @@ export const promoCodes: PromoCode[] = [
     company: "Ëбидоёби",
     logo: "/logos/ebidoebi.svg",
     description: "На первый заказ от 1.800 ₽.",
-    code: "BL0413PF",
+    code: "TEST",
     category: "food",
   },
   {
@@ -332,7 +332,7 @@ export const promoCodes: PromoCode[] = [
     company: "Farfor",
     logo: "/logos/farfor.svg",
     description: "На первый заказ от 1.500 ₽. Не распространяется на акционные сеты и пиццу месяца.",
-    code: "YBH47958",
+    code: "TEST",
     category: "food",
   },
   {
@@ -341,7 +341,7 @@ export const promoCodes: PromoCode[] = [
     company: "Farfor",
     logo: "/logos/farfor.svg",
     description: "Ролл Темпурный Цезарь в подарок на любой заказ от 1.490 ₽.",
-    code: "FVY81318",
+    code: "TEST",
     category: "food",
   },
 
@@ -352,7 +352,7 @@ export const promoCodes: PromoCode[] = [
     company: "Яндекс Афиша",
     logo: "/logos/yandex-afisha.svg",
     description: "На первую и все повторные покупки билетов от 3.000 ₽.",
-    code: "DI176512",
+    code: "TEST",
     category: "services",
   },
   {
@@ -361,7 +361,7 @@ export const promoCodes: PromoCode[] = [
     company: "Яндекс Афиша",
     logo: "/logos/yandex-afisha.svg",
     description: "На первую покупку билетов от 2.000 ₽.",
-    code: "F07142",
+    code: "TEST",
     category: "services",
   },
   {
@@ -370,7 +370,7 @@ export const promoCodes: PromoCode[] = [
     company: "Яндекс Афиша",
     logo: "/logos/yandex-afisha.svg",
     description: "На первую покупку билетов от 3.000 ₽.",
-    code: "F23134",
+    code: "TEST",
     category: "services",
   },
   {
@@ -380,7 +380,7 @@ export const promoCodes: PromoCode[] = [
     logo: "/logos/yandex-afisha.svg",
     description:
       "На первую покупку билетов от 5.000 ₽. Не действует на подарочные сертификаты, билеты в кино и при оплате Пушкинской картой. Не суммируется с акциями, картой лояльности и специальными предложениями.",
-    code: "F19324",
+    code: "TEST",
     category: "services",
   },
   {
@@ -390,7 +390,7 @@ export const promoCodes: PromoCode[] = [
     logo: "/logos/premier.svg",
     description:
       "50 дней доступа к сервисам RUTUBE + PREMIER за 1 ₽ для пользователей без активной подписки более полугода. Или подписка на один месяц за 200 ₽ для неактивных пользователей менее полугода.",
-    code: "27er77jr",
+    code: "TEST",
     category: "services",
   },
   {
@@ -400,7 +400,7 @@ export const promoCodes: PromoCode[] = [
     logo: "/logos/kinopoisk.svg",
     description:
       "Бесплатный доступ на 45 дней для новых пользователей или 30 дней за 1 ₽ для пользователей, чья мультиподписка закончилась более 14 дней назад и тех, кто ранее не использовал услугу реактивации. Возрастное ограничение 18+.",
-    code: "5WGWZV4MLV",
+    code: "TEST",
     category: "services",
   },
   {
@@ -410,7 +410,7 @@ export const promoCodes: PromoCode[] = [
     logo: "/logos/yandex-plus.svg",
     description:
       "Бесплатный доступ на 45 дней для новых пользователей или 30 дней за 1 ₽, если мультиподписка была неактивна уже более 30 дней и вы раньше не использовали услугу реактивации. Возрастное ограничение 18+.",
-    code: "69MSZGMH66",
+    code: "TEST",
     category: "services",
   },
   {
@@ -420,7 +420,7 @@ export const promoCodes: PromoCode[] = [
     logo: "/logos/yandex-music.svg",
     description:
       "Бесплатный доступ на 45 дней для новых пользователей и 30 дней за 1 ₽ для тех, у кого мультиподписка Яндекс Плюс закончилась более месяца назад и не использовалась услуга реактивации. Возрастное ограничение 18+.",
-    code: "5CW93YVG95",
+    code: "TEST",
     category: "services",
   },
   {
@@ -430,7 +430,7 @@ export const promoCodes: PromoCode[] = [
     logo: "/logos/yandex-knigi.svg",
     description:
       "Бесплатный доступ на 45 дней для новых пользователей или 30 дней за 1 ₽ для тех, у кого мультиподписка Яндекс Плюс закончилась более месяца назад и не использовалась услуга реактивации. Возрастное ограничение 18+.",
-    code: "43BLXBM9Q3",
+    code: "TEST",
     category: "services",
   },
   {
@@ -439,7 +439,7 @@ export const promoCodes: PromoCode[] = [
     company: "START",
     logo: "/logos/start.svg",
     description: "30 дней доступа к подписке на START за 0₽ для новых пользователей.",
-    code: "pf3m0xxpg8",
+    code: "TEST",
     category: "services",
   },
   {
@@ -448,7 +448,7 @@ export const promoCodes: PromoCode[] = [
     company: "Плати по миру",
     logo: "/logos/platipo.svg",
     description: "На выпуск Премиальной карты + кешбэк 5 $ после её оформления.",
-    code: "PREPQ4B35H",
+    code: "TEST",
     category: "services",
   },
   {
@@ -457,7 +457,7 @@ export const promoCodes: PromoCode[] = [
     company: "Плати по миру",
     logo: "/logos/platipo.svg",
     description: "На выпуск карт для путешествий и подписок + кешбэк 5 $ после её оформления.",
-    code: "F7K4MV",
+    code: "TEST",
     category: "services",
   },
   {
@@ -467,7 +467,7 @@ export const promoCodes: PromoCode[] = [
     logo: "/logos/okko.svg",
     description:
       "60 дней доступа к подписке за 1 ₽, далее 399 ₽/месяц для новых пользователей и тех, у кого нет активной или отключенной подписки СберПрайм по всей России.",
-    code: "289734237831",
+    code: "TEST",
     category: "services",
   },
   {
@@ -476,7 +476,7 @@ export const promoCodes: PromoCode[] = [
     company: "Онлайн-кинотеатр 24тв",
     logo: "/logos/tv24.svg",
     description: "На тариф \"Премиум\", к сервису можно подключить 5 устройств.",
-    code: "WBNWHPZF",
+    code: "TEST",
     category: "services",
   },
   {
@@ -485,7 +485,7 @@ export const promoCodes: PromoCode[] = [
     company: "Онлайн-кинотеатр 24тв",
     logo: "/logos/tv24.svg",
     description: "35 дней бесплатного доступа по тарифу \"Оптимум+\". Действует только для новых пользователей.",
-    code: "B5MZJR3F",
+    code: "TEST",
     category: "services",
   },
 
@@ -497,7 +497,7 @@ export const promoCodes: PromoCode[] = [
     logo: "/logos/mkosmetic.svg",
     description:
       "На первый заказ от 1.200 ₽ ❗️Промокод действует только на товары в разделе М.Косметик, не действует на товары с пометкой \"Финальная цена\". Только на доставку.",
-    code: "PK3M6A0G",
+    code: "TEST",
     category: "cosmetics",
   },
   {
@@ -506,8 +506,8 @@ export const promoCodes: PromoCode[] = [
     company: "ЛЭТУАЛЬ",
     logo: "/logos/letual.svg",
     description:
-      "Скидка на каждый заказ в зависимости от суммы: 15% от 4.000 ₽, 25% от 7.000 ₽, 35% от 12.000 ₽. Введи промокод БЛЕСК при оформлении.",
-    code: "БЛЕСК",
+      "Скидка на каждый заказ в зависимости от суммы: 15% от 4.000 ₽, 25% от 7.000 ₽, 35% от 12.000 ₽. Введи промокод TEST при оформлении.",
+    code: "TEST",
     isLink: true,
     linkText: "Открыть 🔗",
     linkUrl: "https://www.letu.ru",
@@ -518,8 +518,8 @@ export const promoCodes: PromoCode[] = [
     discount: "2500 ₽",
     company: "ЛЭТУАЛЬ",
     logo: "/logos/letual.svg",
-    description: "На каждый заказ от 6.000 ₽. Введи промокод ШАНС при оформлении.",
-    code: "ШАНС",
+    description: "На каждый заказ от 6.000 ₽. Введи промокод TEST при оформлении.",
+    code: "TEST",
     isLink: true,
     linkText: "Открыть 🔗",
     linkUrl: "https://www.letu.ru",
@@ -531,7 +531,7 @@ export const promoCodes: PromoCode[] = [
     company: "RANDEWOO",
     logo: "/logos/randewoo.svg",
     description: "На каждый заказ от 4.500 ₽. Суммируются с акциями на сайте ❗️",
-    code: "RND0-v3TRzvUX",
+    code: "TEST",
     category: "cosmetics",
   },
 
@@ -542,7 +542,7 @@ export const promoCodes: PromoCode[] = [
     company: "Яндекс Путешествия",
     logo: "/logos/yandex-travel.svg",
     description: "На одно бронирование отеля от 10.000 ₽.",
-    code: "PF-ALLIOOO-A432U",
+    code: "TEST",
     category: "travel",
   },
   {
@@ -551,7 +551,7 @@ export const promoCodes: PromoCode[] = [
     company: "Яндекс Путешествия",
     logo: "/logos/yandex-travel.svg",
     description: "На одно бронирование отеля от 15.000 ₽.",
-    code: "PF-ALLI5OO-DUUGF",
+    code: "TEST",
     category: "travel",
   },
 
@@ -563,7 +563,7 @@ export const promoCodes: PromoCode[] = [
     logo: "/logos/sokolov.svg",
     description:
       "Воспользоваться можно один раз. Нажмите «Открыть», чтобы получить код, который нужно показать на кассе для получения подарка.",
-    code: "T45P4D44",
+    code: "TEST",
     isLink: true,
     linkText: "Открыть 🔗",
     linkUrl: "https://sokolov.ru",
@@ -577,7 +577,7 @@ export const promoCodes: PromoCode[] = [
     company: "OZON",
     logo: "/logos/ozon.svg",
     description: "На ассортимент брендов Carte Blanche и GALA. На каждый заказ, суммируется с акциями.",
-    code: "SZHM93427848",
+    code: "TEST",
     category: "home",
   },
   {
@@ -586,7 +586,7 @@ export const promoCodes: PromoCode[] = [
     company: "OZON",
     logo: "/logos/ozon.svg",
     description: "На ассортимент бренда Cozy Home. На каждый заказ от 1.000 ₽, суммируется с акциями.",
-    code: "SZHM60330E11",
+    code: "TEST",
     category: "home",
   },
 
@@ -598,7 +598,7 @@ export const promoCodes: PromoCode[] = [
     logo: "/logos/ddx.svg",
     description:
       "На вступительный платёж по тарифам Infinity и Infinity Plus. Не суммируется с другими акциями и скидками.",
-    code: "DDXPE422V",
+    code: "TEST",
     category: "sport",
   },
 ];
