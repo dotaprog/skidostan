@@ -48,7 +48,7 @@ export default function PromoCard({ promo }: PromoCardProps) {
     <div className="bg-white rounded-2xl shadow-md hover:shadow-xl transition-all duration-300 border border-gray-100 flex flex-col overflow-hidden group">
       {/* Top: Logo + Discount */}
       <div className="flex items-center gap-3 p-4 pb-3">
-        <div className="flex-shrink-0 w-20 h-10 rounded-lg overflow-hidden bg-gray-50 flex items-center justify-center">
+        <div className="flex-shrink-0 w-12 h-12 rounded-lg overflow-hidden bg-gray-50 flex items-center justify-center">
           <img
             src={promo.logo}
             alt={promo.company}
