@@ -59,7 +59,7 @@ export default function PromoCard({ promo }: PromoCardProps) {
           />
         </div>
         <div className="flex-1 min-w-0">
-          <p className="text-xs text-gray-500 truncate font-medium">{promo.company}</p>
+          <p className="text-sm sm:text-base font-semibold text-gray-700 truncate">{promo.company}</p>
           <span className="inline-block bg-yellow-400 text-gray-900 text-sm font-extrabold px-2 py-0.5 rounded-lg mt-0.5 leading-tight">
             {promo.discount}
           </span>
