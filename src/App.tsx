@@ -58,7 +58,7 @@ export default function App() {
               </div>
               <div>
                 <h1 className="text-base sm:text-lg font-extrabold text-gray-900 leading-tight">
-                  ПромоКоды
+                  Скидостан
                 </h1>
                 <p className="text-xs text-gray-400 hidden sm:block">Актуальные скидки каждый день</p>
               </div>
