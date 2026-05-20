@@ -191,7 +191,7 @@ export default function App() {
             <div className="w-8 h-8 bg-yellow-400 rounded-xl flex items-center justify-center">
               🎟️
             </div>
-            <span className="font-extrabold text-gray-800 text-lg">ПромоКоды</span>
+            <span className="font-extrabold text-gray-800 text-lg">Скидостан</span>
           </div>
           <p className="text-gray-400 text-sm max-w-md mx-auto">
             Актуальные промокоды на еду, сервисы, косметику, путешествия и многое другое.
