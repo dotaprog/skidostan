@@ -18,7 +18,7 @@ export type Category = {
 };
 
 export const categories: Category[] = [
-  { id: "hype", label: "На хайпе", emoji: "🔥" },
+  { id: "hype", label: "Популярное", emoji: "🔥" },
   { id: "food", label: "Еда", emoji: "🍔" },
   { id: "services", label: "Сервисы", emoji: "🌐" },
   { id: "cosmetics", label: "Косметика", emoji: "💄" },
@@ -34,7 +34,7 @@ export const promoCodes: PromoCode[] = [
     id: "hype-1",
     discount: "50%",
     company: "Самокат",
-    logo: "/logos/samokat.svg",
+    logo: "/logos/samokat.png",
     description: "На первый заказ от 700₽. Не суммируется с другими скидками на товары.",
     code: "SMLXUSL",
     category: "hype",
@@ -43,7 +43,7 @@ export const promoCodes: PromoCode[] = [
     id: "hype-2",
     discount: "400₽",
     company: "Самокат",
-    logo: "/logos/samokat.svg",
+    logo: "/logos/samokat.png",
     description: "На первый заказ от 900₽. СУММИРУЕТСЯ с другими скидками на товары.",
     code: "PFF79ES",
     category: "hype",
