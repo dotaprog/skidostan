@@ -559,7 +559,7 @@ export const promoCodes: PromoCode[] = [
   {
     id: "jew-1",
     discount: "1000 ₽",
-    company: "Sunlight",
+    company: "SUNLIGHT",
     logo: "/logos/sunlight.png",
     description: "На весь ассортимент для новых пользователей от 3.000 ₽.",
     code: "pfm173647",
@@ -568,7 +568,7 @@ export const promoCodes: PromoCode[] = [
   {
     id: "jew-2",
     discount: "3000 ₽",
-    company: "Sunlight",
+    company: "SUNLIGHT",
     logo: "/logos/sunlight.png",
     description: "На весь ассортимент для новых пользователей от 15.000 ₽.",
     code: "pfnm319475",
@@ -577,7 +577,7 @@ export const promoCodes: PromoCode[] = [
   {
     id: "jew-3",
     discount: "5000 ₽",
-    company: "Sunlight",
+    company: "SUNLIGHT",
     logo: "/logos/sunlight.png",
     description: "На весь ассортимент для новых пользователей от 50.000 ₽.",
     code: "pfm523689",
@@ -586,7 +586,7 @@ export const promoCodes: PromoCode[] = [
   {
     id: "jew-4",
     discount: "1500 ₽",
-    company: "Sunlight",
+    company: "SUNLIGHT",
     logo: "/logos/sunlight.png",
     description: "На весь ассортимент для всех пользователей от 15.000 ₽.",
     code: "pfm1549758",
@@ -595,7 +595,7 @@ export const promoCodes: PromoCode[] = [
   {
     id: "jew-5",
     discount: "3000 ₽",
-    company: "Sunlight",
+    company: "SUNLIGHT",
     logo: "/logos/sunlight.png",
     description: "На весь ассортимент для всех пользователей от 35.000 ₽.",
     code: "pfm399349",
