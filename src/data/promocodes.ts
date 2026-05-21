@@ -345,7 +345,7 @@ export const promoCodes: PromoCode[] = [
     logo: "/logos/kinopoisk.png",
     description:
       "Бесплатный доступ на 45 дней для новых пользователей или 30 дней за 1 ₽ для пользователей, чья мультиподписка закончилась более 14 дней назад и тех, кто ранее не использовал услугу реактивации. Возрастное ограничение 18+.",
-    code: "TEST",
+    code: "68YF7DVHAN",
     category: "services",
   },
   {
@@ -355,7 +355,7 @@ export const promoCodes: PromoCode[] = [
     logo: "/logos/yandex-plus.png",
     description:
       "Бесплатный доступ на 45 дней для новых пользователей или 30 дней за 1 ₽, если мультиподписка была неактивна уже более 30 дней и вы раньше не использовали услугу реактивации. Возрастное ограничение 18+.",
-    code: "TEST",
+    code: "6WJ5V6NU4G",
     category: "services",
   },
   {
@@ -365,7 +365,7 @@ export const promoCodes: PromoCode[] = [
     logo: "/logos/yandex-music.png",
     description:
       "Бесплатный доступ на 45 дней для новых пользователей и 30 дней за 1 ₽ для тех, у кого мультиподписка Яндекс Плюс закончилась более месяца назад и не использовалась услуга реактивации. Возрастное ограничение 18+.",
-    code: "TEST",
+    code: "8DL3NPVPQA",
     category: "services",
   },
   {
@@ -375,7 +375,7 @@ export const promoCodes: PromoCode[] = [
     logo: "/logos/yandex-knigi.png",
     description:
       "Бесплатный доступ на 45 дней для новых пользователей или 30 дней за 1 ₽ для тех, у кого мультиподписка Яндекс Плюс закончилась более месяца назад и не использовалась услуга реактивации. Возрастное ограничение 18+.",
-    code: "TEST",
+    code: "56L5RHDL5D",
     category: "services",
   },
   {
@@ -385,34 +385,6 @@ export const promoCodes: PromoCode[] = [
     logo: "/logos/start.png",
     description: "30 дней доступа к подписке на START за 0₽ для новых пользователей.",
     code: "pf3m08hhhb",
-    category: "services",
-  },
-  {
-    id: "srv-11",
-    discount: "1000 ₽",
-    company: "Плати по миру",
-    logo: "/logos/platipo.png",
-    description: "На выпуск Премиальной карты + кешбэк 5 $ после её оформления.",
-    code: "TEST",
-    category: "services",
-  },
-  {
-    id: "srv-12",
-    discount: "500 ₽",
-    company: "Плати по миру",
-    logo: "/logos/platipo.png",
-    description: "На выпуск карт для путешествий и подписок + кешбэк 5 $ после её оформления.",
-    code: "TEST",
-    category: "services",
-  },
-  {
-    id: "srv-13",
-    discount: "60 дней",
-    company: "Okko",
-    logo: "/logos/okko.png",
-    description:
-      "60 дней доступа к подписке за 1 ₽, далее 399 ₽/месяц для новых пользователей и тех, у кого нет активной или отключенной подписки СберПрайм по всей России.",
-    code: "TEST",
     category: "services",
   },
 
