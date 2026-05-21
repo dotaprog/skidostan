@@ -122,13 +122,6 @@ export default function App() {
         </p>
 
         {/* Stats */}
-  <div className="flex items-center justify-center gap-6 mt-8 flex-wrap">
-    <div className="text-center">
-      <div className="text-2xl font-extrabold text-gray-900">{promoCodes.length}+</div>
-      <div className="text-xs text-gray-500 mt-0.5">Промокодов</div>
-    </div>
-  </div>
-</div>
         
       {/* ===== MAIN CONTENT ===== */}
       <main className="max-w-7xl mx-auto px-4 pb-20">
