@@ -181,7 +181,7 @@ export default function App() {
             </div>
             <span className="font-extrabold text-gray-800 text-lg">Скидостан</span>
           </div>
-          <p className="text-gray-300 text-sm px-4">
+          <p className="text-gray-320 text-sm px-4">
             Реклама. ООО "Яндекс.Лавка", ИНН 9718101499. erid: 2RanymtBSfc
             Реклама. ООО "Умный Ритейл", ИНН 7811657720. erid: 2RanykW87Na
             Реклама. АО "Тандер", ИНН 2310031475. erid: 2RanynSprGr
@@ -199,6 +199,7 @@ export default function App() {
             Реклама. ООО "ТВОЕ", ИНН 7706741162. erid: 2Ranyo32wuU
             Реклама. ООО «МАРКЕТПЛЕЙС», г. Москва, ОГРН: 1167746803180 erid: 2RanykXkVmc
             Реклама. Рекламодатель ООО "ТК КОУЗИ ХОУМ", ИНН 7743238687 erid: 2RanykgeRTg 
+            Реклама. ООО "ЯНДЕКС.ВЕРТИКАЛИ", ИНН 7704340327. erid: 2RanykwUdm4
           </p>
           <p className="text-gray-300 text-xs mt-3">
             ⚠️ Промокоды могут иметь ограниченный срок действия. Всегда проверяйте актуальность.
