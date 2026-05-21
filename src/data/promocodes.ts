@@ -108,7 +108,7 @@ export const promoCodes: PromoCode[] = [
     id: "hype-9",
     discount: "21%",
     company: "Магнит Доставка",
-    logo: "/logos/magnit.svg",
+    logo: "/logos/magnit.png",
     description:
       "На повторный заказ от 1.700₽ в разделе «Мигом». Бонусы суммируются со скидками.",
     code: "21DSF164BD9",
