@@ -442,7 +442,7 @@ export const promoCodes: PromoCode[] = [
     logo: "/logos/mkosmetic.png",
     description:
       "На первый заказ от 1.200 ₽ ❗️Промокод действует только на товары в разделе М.Косметик, не действует на товары с пометкой \"Финальная цена\". Только на доставку.",
-    code: "TEST",
+    code: "PK3LTTDC",
     category: "cosmetics",
   },
   {
