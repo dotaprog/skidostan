@@ -70,20 +70,20 @@ export const promoCodes: PromoCode[] = [
     id: "hype-5",
     discount: "36%",
     company: "Магнит Доставка",
-    logo: "/logos/magnit.svg",
+    logo: "/logos/magnit.png",
     description:
       "На первый заказ от 1.200₽ в разделе «Экспресс». Не распространяются на товары из разделов: «М.Косметик», «Магнит Гипермаркет», «Аптека» и «Финальная цена».",
-    code: "TEST",
+    code: "PE3I99LL",
     category: "hype",
   },
   {
     id: "hype-6",
     discount: "51%",
     company: "Магнит Доставка",
-    logo: "/logos/magnit.svg",
+    logo: "/logos/magnit.png",
     description:
       "На первый заказ от 1.000₽ в разделе Мигом. Не распространяется на товары с пометкой «финальная цена».",
-    code: "TEST",
+    code: "FM51PQMKY",
     category: "hype",
   },
   {
@@ -111,7 +111,7 @@ export const promoCodes: PromoCode[] = [
     logo: "/logos/magnit.svg",
     description:
       "На повторный заказ от 1.700₽ в разделе «Мигом». Бонусы суммируются со скидками.",
-    code: "TEST",
+    code: "21DSF164BD9",
     category: "hype",
   },
 
