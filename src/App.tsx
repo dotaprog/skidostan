@@ -122,6 +122,11 @@ export default function App() {
         </p>
 
         {/* Stats */}
+          <div className="flex items-center justify-center gap-6 mt-8 flex-wrap">
+    <div className="text-center">
+    </div>
+  </div>
+</div>
         
       {/* ===== MAIN CONTENT ===== */}
       <main className="max-w-7xl mx-auto px-4 pb-20">
