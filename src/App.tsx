@@ -120,26 +120,7 @@ export default function App() {
         <p className="text-gray-500 text-base sm:text-lg max-w-xl mx-auto">
           Нажмите на промокод, чтобы скопировать его. Используйте при оформлении заказа!
         </p>
-
-        {/* Stats */}
-        <div className="flex items-center justify-center gap-6 mt-8 flex-wrap">
-          <div className="text-center">
-            <div className="text-2xl font-extrabold text-gray-900">{promoCodes.length}+</div>
-            <div className="text-xs text-gray-500 mt-0.5">Промокодов</div>
-          </div>
-          <div className="w-px h-8 bg-gray-200 hidden sm:block" />
-          <div className="text-center">
-            <div className="text-2xl font-extrabold text-gray-900">{categories.length}</div>
-            <div className="text-xs text-gray-500 mt-0.5">Категорий</div>
-          </div>
-          <div className="w-px h-8 bg-gray-200 hidden sm:block" />
-          <div className="text-center">
-            <div className="text-2xl font-extrabold text-gray-900">100%</div>
-            <div className="text-xs text-gray-500 mt-0.5">Бесплатно</div>
-          </div>
-        </div>
-      </div>
-
+        
       {/* ===== MAIN CONTENT ===== */}
       <main className="max-w-7xl mx-auto px-4 pb-20">
         {categories.map((category) => {
