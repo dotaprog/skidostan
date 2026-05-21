@@ -220,9 +220,9 @@ export const promoCodes: PromoCode[] = [
     id: "food-12",
     discount: "40%",
     company: "Elementaree",
-    logo: "/logos/elementaree.svg",
+    logo: "/logos/elementaree.png",
     description: "На первый заказ от 3.000 ₽ или 12% на все повторные заказы от 3.000 ₽.",
-    code: "TEST",
+    code: "ani12",
     category: "food",
   },
   {
