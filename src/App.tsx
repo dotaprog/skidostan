@@ -127,16 +127,6 @@ export default function App() {
       <div className="text-2xl font-extrabold text-gray-900">{promoCodes.length}+</div>
       <div className="text-xs text-gray-500 mt-0.5">Промокодов</div>
     </div>
-    <div className="w-px h-8 bg-gray-200 hidden sm:block" />
-    <div className="text-center">
-      <div className="text-2xl font-extrabold text-gray-900">{categories.length}</div>
-      <div className="text-xs text-gray-500 mt-0.5">Категорий</div>
-    </div>
-    <div className="w-px h-8 bg-gray-200 hidden sm:block" />
-    <div className="text-center">
-      <div className="text-2xl font-extrabold text-gray-900">100%</div>
-      <div className="text-xs text-gray-500 mt-0.5">Бесплатно</div>
-    </div>
   </div>
 </div>
         
