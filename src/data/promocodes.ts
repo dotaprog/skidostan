@@ -433,11 +433,11 @@ export const promoCodes: PromoCode[] = [
     company: "ЛЭТУАЛЬ",
     logo: "/logos/letual.png",
     description:
-      "Скидка на каждый заказ в зависимости от суммы: 15% от 4.000 ₽, 25% от 7.000 ₽, 35% от 12.000 ₽. Введи промокод TEST при оформлении.",
-    code: "TEST",
+      "Скидка на каждый заказ в зависимости от суммы: 15% от 4.000 ₽, 25% от 7.000 ₽, 35% от 12.000 ₽. Введи промокод УТРО при оформлении.",
+    code: "УТРО",
     isLink: true,
     linkText: "Открыть 🔗",
-    linkUrl: "https://www.letu.ru",
+    linkUrl: "https://letu.prfl.me/sites/kbx2dr?erid=2RanymZ4LXL",
     category: "cosmetics",
   },
   {
@@ -445,11 +445,11 @@ export const promoCodes: PromoCode[] = [
     discount: "2500 ₽",
     company: "ЛЭТУАЛЬ",
     logo: "/logos/letual.png",
-    description: "На каждый заказ от 6.000 ₽. Введи промокод TEST при оформлении.",
-    code: "TEST",
+    description: "На каждый заказ от 6.000 ₽. Введи промокод ШАНС при оформлении.",
+    code: "ШАНС",
     isLink: true,
     linkText: "Открыть 🔗",
-    linkUrl: "https://www.letu.ru",
+    linkUrl: "https://letu.prfl.me/sites/kbx2dr?erid=2RanymZ4LXL",
     category: "cosmetics",
   },
   {
@@ -458,7 +458,7 @@ export const promoCodes: PromoCode[] = [
     company: "RANDEWOO",
     logo: "/logos/randewoo.png",
     description: "На каждый заказ от 4.500 ₽. Суммируются с акциями на сайте ❗️",
-    code: "TEST",
+    code: "RND0-y4GSvzwP",
     category: "cosmetics",
   },
 
