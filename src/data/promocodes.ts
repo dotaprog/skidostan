@@ -335,7 +335,7 @@ export const promoCodes: PromoCode[] = [
     logo: "/logos/premier.png",
     description:
       "50 дней доступа к сервисам RUTUBE + PREMIER за 1 ₽ для пользователей без активной подписки более полугода. Или подписка на один месяц за 200 ₽ для неактивных пользователей менее полугода.",
-    code: "TEST",
+    code: "4f4rh3we",
     category: "services",
   },
   {
