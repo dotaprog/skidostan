@@ -384,7 +384,7 @@ export const promoCodes: PromoCode[] = [
     company: "START",
     logo: "/logos/start.png",
     description: "30 дней доступа к подписке на START за 0₽ для новых пользователей.",
-    code: "TEST",
+    code: "pf3m08hhhb",
     category: "services",
   },
   {
