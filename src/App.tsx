@@ -194,7 +194,7 @@ export default function App() {
             <span className="font-extrabold text-gray-800 text-lg">Скидостан</span>
           </div>
           <p className="text-gray-400 text-sm max-w-md mx-auto">
-            Реклама. ООО "Яндекс.Лавка", ИНН 9718101499. erid: 2RanymtBSfc
+            Реклама. ООО "Яндекс.Лавка", ИНН 9718101499. erid: 2RanymtBSfc | Реклама. ООО "Умный Ритейл", ИНН 7811657720. erid: 2RanykW87Na
           </p>
           <p className="text-gray-300 text-xs mt-3">
             ⚠️ Промокоды могут иметь ограниченный срок действия. Всегда проверяйте актуальность.
