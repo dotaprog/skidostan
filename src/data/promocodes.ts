@@ -259,7 +259,7 @@ export const promoCodes: PromoCode[] = [
     company: "Farfor",
     logo: "/logos/farfor.png",
     description: "На первый заказ от 1.500 ₽. Не распространяется на акционные сеты и пиццу месяца.",
-    code: "TEST",
+    code: "NPL78457",
     category: "food",
   },
   {
@@ -268,7 +268,7 @@ export const promoCodes: PromoCode[] = [
     company: "Farfor",
     logo: "/logos/farfor.png",
     description: "Ролл Темпурный Цезарь в подарок на любой заказ от 1.490 ₽.",
-    code: "TEST",
+    code: "ZDL96471",
     category: "food",
   },
   {
