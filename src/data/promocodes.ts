@@ -25,7 +25,7 @@ export const categories: Category[] = [
   { id: "travel", label: "Путешествия", emoji: "🌴" },
   { id: "jewelry", label: "Ювелирка", emoji: "💍" },
   { id: "home", label: "Для дома", emoji: "🏠" },
-  { id: "sport", label: "Спорт", emoji: "💪" },
+  { id: "sport", label: "Каршеринг", emoji: "🚗" },
 ];
 
 export const promoCodes: PromoCode[] = [
@@ -570,12 +570,12 @@ export const promoCodes: PromoCode[] = [
   // ===== SPORT =====
   {
     id: "spt-1",
-    discount: "66%",
-    company: "DDX Fitness",
-    logo: "/logos/ddx.png",
+    discount: "2000",
+    company: "Делимобиль",
+    logo: "/logos/delimobil.png",
     description:
-      "На вступительный платёж по тарифам Infinity и Infinity Plus. Не суммируется с другими акциями и скидками.",
-    code: "TEST",
+      "2.000 бонусов для новых пользователей.",
+    code: "npqzh9",
     category: "sport",
   },
 ];
