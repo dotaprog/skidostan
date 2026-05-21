@@ -560,7 +560,7 @@ export const promoCodes: PromoCode[] = [
     company: "Мегамаркет",
     logo: "/logos/megamarket.png",
     description: "Скидки до 70% на одежду, обувь и многое другое с доставкой из-за рубежа.",
-    code: "",
+    code: "ПО ССЫЛКЕ",
     isLink: true,
     linkText: "Открыть 🔗",
     linkUrl: "https://megamarket1.prfl.me/sites/rr313f?erid=2RanykXkVmc",
