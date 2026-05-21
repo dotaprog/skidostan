@@ -24,7 +24,7 @@ export const categories: Category[] = [
   { id: "cosmetics", label: "Косметика", emoji: "💄" },
   { id: "travel", label: "Путешествия", emoji: "🌴" },
   { id: "jewelry", label: "Ювелирка", emoji: "💍" },
-  { id: "home", label: "Для дома", emoji: "🏠" },
+  { id: "home", label: "Маркетплейсы", emoji: "🏪" },
   { id: "sport", label: "Каршеринг", emoji: "🚗" },
 ];
 
