@@ -469,7 +469,7 @@ export const promoCodes: PromoCode[] = [
     company: "Яндекс Путешествия",
     logo: "/logos/yandex-travel.png",
     description: "На одно бронирование отеля от 10.000 ₽.",
-    code: "TEST",
+    code: "PF-ALLIOOO-K3UJK",
     category: "travel",
   },
   {
@@ -478,7 +478,7 @@ export const promoCodes: PromoCode[] = [
     company: "Яндекс Путешествия",
     logo: "/logos/yandex-travel.png",
     description: "На одно бронирование отеля от 15.000 ₽.",
-    code: "TEST",
+    code: "PF-ALLI5OO-H8XRG",
     category: "travel",
   },
 
