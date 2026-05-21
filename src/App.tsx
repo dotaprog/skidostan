@@ -181,7 +181,7 @@ export default function App() {
             </div>
             <span className="font-extrabold text-gray-800 text-lg">Скидостан</span>
           </div>
-          <p className="text-gray-300 text-sm max-w-md mx-auto">
+          <p className="text-gray-350 text-sm px-4">
             Реклама. ООО "Яндекс.Лавка", ИНН 9718101499. erid: 2RanymtBSfc
             Реклама. ООО "Умный Ритейл", ИНН 7811657720. erid: 2RanykW87Na
             Реклама. АО "Тандер", ИНН 2310031475. erid: 2RanynSprGr
